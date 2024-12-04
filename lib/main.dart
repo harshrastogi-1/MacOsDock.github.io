@@ -110,7 +110,7 @@ class _MyHomePageState extends State<MyHomePage> {
       children: [
         Center(
           child: Container(
-            margin: const EdgeInsets.all(70),
+            // margin: const EdgeInsets.all(70),
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(8),
               color: Colors.black12,
