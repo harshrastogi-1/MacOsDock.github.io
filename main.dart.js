@@ -31619,7 +31619,7 @@ F(){return"_CardVariant."+this.b}}
 A.w8.prototype={
 X(a){var s,r,q,p,o,n,m,l,k=null,j=A.cK(a).xr
 A.cK(a)
-switch(0){case 0:s=new A.VC(a,B.D,k,k,k,1,B.zw,k)
+switch(0){case 0:s=new A.VC(a,B.D,k,k,k,1,B.zv,k)
 break}r=s
 s=j.f
 if(s==null){s=r.f
@@ -50821,7 +50821,7 @@ n=B.c9[B.f.aE(B.ic.gq(0),18)]
 this.e=A.b([s,r,q,p,A.ls(m,A.xO(B.ic,B.i),B.D,m,new A.d9(n,m,m,o,m,m,B.au),m,m,B.c5,m,m)],t.E)},
 X(a){var s=null,r=this.e
 r===$&&A.a()
-return new A.wu(B.ad,B.nn,B.no,B.c_,s,B.fO,s,A.b([A.a3L(A.ls(s,new A.ma(r,B.zx,new A.Xt(this),new A.Xr(),new A.Xs(),!1,8,4,B.i1,s),B.D,s,new A.d9(B.hT,s,s,A.lc(8),s,s,B.au),s,B.zv,s,s,s),s,s)],t.E),s)}}
+return new A.wu(B.ad,B.nn,B.no,B.c_,s,B.fO,s,A.b([A.a3L(A.ls(s,new A.ma(r,B.zx,new A.Xt(this),new A.Xr(),new A.Xs(),!1,8,4,B.i1,s),B.D,s,new A.d9(B.hT,s,s,A.lc(8),s,s,B.au),s,B.zw,s,s,s),s,s)],t.E),s)}}
 A.Xt.prototype={
 $2(a,b){var s=this.a
 s.aj(new A.Xu(s,a,b))},
@@ -54879,8 +54879,8 @@ B.zt=new A.K6(0,"tonalSpot")
 B.d2=new A.bt(0,0,0,0)
 B.c5=new A.bt(10,10,10,10)
 B.zu=new A.bt(16,0,16,0)
-B.zv=new A.bt(30,30,30,30)
-B.zw=new A.bt(4,4,4,4)
+B.zv=new A.bt(4,4,4,4)
+B.zw=new A.bt(70,70,70,70)
 B.zx=new A.bt(8,8,8,8)
 B.zy=new A.oM(null)
 B.zz=new A.oO(0,"noOpinion")
